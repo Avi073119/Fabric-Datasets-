@@ -1,0 +1,501 @@
+CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddress,AnnualIncome,TotalChildren,EducationLevel,Occupation,HomeOwner
+11000,Mr.,Neha,Huang,10/11/1992,S,F,neha11000@adventure-works.com,61094,5,High School,Skilled Manual,N
+11001,Mrs.,Eugene,Mehta,2/19/1984,M,M,eugene11001@adventure-works.com,104918,0,Masters,Sales,Y
+11002,Dr.,John,Verhoff,11/19/1972,S,F,john11002@adventure-works.com,94641,3,PhD,Clerical,N
+11003,Mrs.,Elizabeth,Garcia,4/13/1974,M,F,elizabeth11003@adventure-works.com,110400,3,High School,Sales,N
+11004,Dr.,Michael,Patel,2/7/1987,S,F,michael11004@adventure-works.com,34358,4,PhD,Professional,N
+11005,Mrs.,John,Verhoff,5/9/1974,S,M,john11005@adventure-works.com,117917,3,Masters,Management,Y
+11006,Ms.,Neha,Torres,7/29/1960,M,M,neha11006@adventure-works.com,31982,0,Masters,Clerical,Y
+11007,Ms.,John,Zhu,8/4/1989,M,F,john11007@adventure-works.com,101072,4,PhD,Consultant,Y
+11008,Mrs.,Noah,Carlson,7/4/1966,M,M,noah11008@adventure-works.com,95936,4,Masters,Professional,Y
+11009,Mrs.,Sophia,Miller,6/9/1981,M,F,sophia11009@adventure-works.com,82156,1,Bachelors,Clerical,Y
+11010,Ms.,Christy,Singh,4/7/1993,S,F,christy11010@adventure-works.com,83023,3,Masters,Professional,Y
+11011,Mr.,Michael,Wilson,12/11/1962,M,M,michael11011@adventure-works.com,107375,4,Masters,Consultant,Y
+11012,Ms.,Ruben,Taylor,9/19/1975,M,M,ruben11012@adventure-works.com,52086,3,PhD,Skilled Manual,Y
+11013,Dr.,Michael,Verhoff,7/31/1962,S,F,michael11013@adventure-works.com,90220,0,High School,Clerical,N
+11014,Mrs.,Liam,Ruiz,9/19/1960,M,F,liam11014@adventure-works.com,96313,5,Bachelors,Professional,N
+11015,Ms.,Christy,Mehta,2/6/1972,S,F,christy11015@adventure-works.com,114424,3,High School,Professional,N
+11016,Ms.,Sophia,Torres,3/16/1970,M,M,sophia11016@adventure-works.com,117906,2,High School,Sales,Y
+11017,Mrs.,Christy,Verhoff,3/19/1965,M,F,christy11017@adventure-works.com,69958,1,PhD,Professional,N
+11018,Mr.,Christy,Patel,3/28/1985,S,F,christy11018@adventure-works.com,100186,1,PhD,Professional,N
+11019,Dr.,Ruben,Torres,7/6/1962,M,M,ruben11019@adventure-works.com,57596,4,Bachelors,Sales,Y
+11020,Mrs.,John,Davis,4/16/1967,M,F,john11020@adventure-works.com,50000,0,High School,Skilled Manual,N
+11021,Ms.,Olivia,Smith,9/26/1971,S,F,olivia11021@adventure-works.com,112807,2,Masters,Management,Y
+11022,Mr.,Eugene,Torres,11/7/1987,M,M,eugene11022@adventure-works.com,81422,3,Bachelors,Sales,N
+11023,Mrs.,Sarah,Davis,6/29/1960,S,M,sarah11023@adventure-works.com,65509,1,High School,Sales,Y
+11024,Mr.,Ruben,Johnson,5/31/1976,S,M,ruben11024@adventure-works.com,62108,4,PhD,Management,Y
+11025,Dr.,John,Yang,8/13/1990,S,F,john11025@adventure-works.com,97933,2,PhD,Clerical,N
+11026,Mr.,David,Torres,7/16/1966,S,F,david11026@adventure-works.com,36565,5,Bachelors,Consultant,Y
+11027,Mrs.,Priya,Johnson,1/20/1973,S,M,priya11027@adventure-works.com,62620,4,High School,Consultant,N
+11028,Mrs.,Sarah,Ruiz,4/29/1963,S,F,sarah11028@adventure-works.com,40259,0,PhD,Professional,N
+11029,Mrs.,Olivia,Zhu,4/9/1973,M,M,olivia11029@adventure-works.com,114727,0,PhD,Clerical,N
+11030,Dr.,Neha,Patel,7/4/1973,M,M,neha11030@adventure-works.com,34800,2,PhD,Professional,N
+11031,Dr.,Marco,Patel,5/7/1964,M,F,marco11031@adventure-works.com,118117,5,PhD,Clerical,N
+11032,Ms.,Julio,Wilson,7/24/1985,M,F,julio11032@adventure-works.com,80907,0,Masters,Skilled Manual,N
+11033,Dr.,Sarah,Ruiz,11/27/1989,M,M,sarah11033@adventure-works.com,69242,1,High School,Management,Y
+11034,Mrs.,Robin,Smith,12/27/2000,M,F,robin11034@adventure-works.com,38004,0,PhD,Skilled Manual,N
+11035,Dr.,Marco,Brown,4/21/1967,M,F,marco11035@adventure-works.com,86874,5,Bachelors,Professional,N
+11036,Ms.,Michael,Patel,3/10/1985,M,M,michael11036@adventure-works.com,110105,3,Bachelors,Sales,N
+11037,Mrs.,Neha,Mehta,1/17/1987,M,M,neha11037@adventure-works.com,56221,4,PhD,Management,Y
+11038,Mr.,Amit,Johnson,6/20/1980,S,M,amit11038@adventure-works.com,113505,5,PhD,Management,Y
+11039,Ms.,Christy,Zhu,11/5/1978,M,F,christy11039@adventure-works.com,88047,3,Bachelors,Skilled Manual,Y
+11040,Mrs.,Noah,Smith,1/9/1961,S,F,noah11040@adventure-works.com,46043,5,Bachelors,Consultant,N
+11041,Dr.,Ruben,Verhoff,4/5/1986,S,M,ruben11041@adventure-works.com,34811,4,PhD,Consultant,Y
+11042,Mr.,Neha,Johnson,5/29/1997,M,F,neha11042@adventure-works.com,47375,3,PhD,Clerical,Y
+11043,Mrs.,Sophia,Singh,2/18/1988,S,M,sophia11043@adventure-works.com,42845,2,PhD,Professional,Y
+11044,Mr.,Amit,Smith,5/5/1992,S,F,amit11044@adventure-works.com,104050,3,PhD,Skilled Manual,Y
+11045,Dr.,Marco,Ruiz,11/1/1983,S,F,marco11045@adventure-works.com,34026,2,High School,Professional,Y
+11046,Mr.,Daniel,Sharma,10/20/1974,M,F,daniel11046@adventure-works.com,32286,0,Bachelors,Consultant,N
+11047,Ms.,Christy,Miller,11/7/1969,M,M,christy11047@adventure-works.com,98636,1,High School,Sales,N
+11048,Mrs.,Amit,Taylor,10/17/1971,S,M,amit11048@adventure-works.com,39205,3,PhD,Skilled Manual,N
+11049,Mrs.,Priya,Garcia,4/30/1994,M,M,priya11049@adventure-works.com,80730,4,PhD,Sales,N
+11050,Mr.,Marco,Garcia,4/17/1975,M,M,marco11050@adventure-works.com,99151,2,PhD,Professional,Y
+11051,Mr.,Noah,Smith,1/28/1985,S,F,noah11051@adventure-works.com,101571,2,High School,Sales,Y
+11052,Mr.,Ruben,Miller,3/2/1976,S,M,ruben11052@adventure-works.com,85218,3,Bachelors,Clerical,N
+11053,Mrs.,Priya,Zhu,11/6/1969,S,M,priya11053@adventure-works.com,71012,2,High School,Clerical,N
+11054,Mrs.,Marco,Taylor,10/1/1988,M,F,marco11054@adventure-works.com,65902,3,PhD,Sales,Y
+11055,Mr.,Eugene,Johnson,10/18/1960,S,M,eugene11055@adventure-works.com,46336,0,PhD,Management,Y
+11056,Dr.,Ruben,Ruiz,5/1/1988,S,F,ruben11056@adventure-works.com,106724,1,PhD,Skilled Manual,Y
+11057,Ms.,David,Khan,10/12/1965,S,F,david11057@adventure-works.com,112911,4,High School,Management,N
+11058,Mrs.,Priya,Taylor,10/18/1998,M,F,priya11058@adventure-works.com,60503,3,Bachelors,Clerical,N
+11059,Mrs.,Ruben,Mehta,2/12/1989,S,M,ruben11059@adventure-works.com,47988,0,Masters,Clerical,N
+11060,Mrs.,Eugene,Huang,3/11/1960,M,M,eugene11060@adventure-works.com,33744,3,PhD,Professional,N
+11061,Dr.,Daniel,Wilson,2/8/1995,M,F,daniel11061@adventure-works.com,56139,3,PhD,Skilled Manual,Y
+11062,Dr.,Amit,Wilson,9/22/1977,M,F,amit11062@adventure-works.com,34965,5,PhD,Professional,Y
+11063,Mrs.,Neha,Taylor,7/27/1975,M,M,neha11063@adventure-works.com,104083,0,High School,Professional,Y
+11064,Dr.,Neha,Miller,1/3/1993,S,M,neha11064@adventure-works.com,91448,3,Bachelors,Skilled Manual,N
+11065,Mrs.,Shannon,Yang,4/27/1960,M,F,shannon11065@adventure-works.com,118861,4,PhD,Management,N
+11066,Mrs.,Shannon,Miller,9/27/1996,M,M,shannon11066@adventure-works.com,50677,2,Masters,Sales,N
+11067,Ms.,Olivia,Mehta,5/29/1968,S,M,olivia11067@adventure-works.com,30169,5,Masters,Sales,N
+11068,Dr.,Marco,Mehta,2/19/1967,S,M,marco11068@adventure-works.com,98511,4,High School,Clerical,N
+11069,Mr.,Christy,Johnson,6/19/1985,S,F,christy11069@adventure-works.com,51915,3,Bachelors,Professional,N
+11070,Ms.,Eugene,Huang,12/16/1998,M,M,eugene11070@adventure-works.com,48339,3,Masters,Sales,Y
+11071,Ms.,Michael,Carlson,6/16/1999,M,M,michael11071@adventure-works.com,83063,3,Masters,Clerical,N
+11072,Ms.,John,Smith,10/13/1977,M,F,john11072@adventure-works.com,66729,4,Bachelors,Professional,Y
+11073,Mrs.,Noah,Smith,3/31/1980,S,F,noah11073@adventure-works.com,95174,4,High School,Consultant,Y
+11074,Dr.,David,Garcia,11/23/1991,S,M,david11074@adventure-works.com,61976,5,Masters,Management,Y
+11075,Mr.,Michael,Taylor,3/9/1967,S,M,michael11075@adventure-works.com,115341,5,Bachelors,Skilled Manual,Y
+11076,Dr.,Noah,Torres,12/31/1970,S,M,noah11076@adventure-works.com,110918,1,Masters,Sales,Y
+11077,Ms.,Daniel,Smith,9/18/1961,S,F,daniel11077@adventure-works.com,58951,4,Masters,Consultant,Y
+11078,Mrs.,Marco,Taylor,1/17/1997,S,M,marco11078@adventure-works.com,61021,0,Bachelors,Consultant,Y
+11079,Mr.,Olivia,Smith,1/25/2001,S,M,olivia11079@adventure-works.com,102266,1,Bachelors,Sales,Y
+11080,Dr.,David,Miller,2/16/1970,S,F,david11080@adventure-works.com,74623,2,High School,Management,Y
+11081,Mrs.,Sophia,Singh,2/3/1966,M,M,sophia11081@adventure-works.com,111126,2,PhD,Sales,Y
+11082,Ms.,Michael,Smith,6/22/1974,S,F,michael11082@adventure-works.com,88778,0,PhD,Sales,Y
+11083,Ms.,Michael,Huang,6/28/1964,M,M,michael11083@adventure-works.com,76873,3,PhD,Sales,Y
+11084,Mrs.,Sarah,Johnson,7/7/1971,S,F,sarah11084@adventure-works.com,104880,3,Masters,Consultant,Y
+11085,Mrs.,Eugene,Davis,9/3/1981,M,F,eugene11085@adventure-works.com,46914,5,Masters,Clerical,N
+11086,Mr.,Liam,Patel,11/30/1990,M,M,liam11086@adventure-works.com,83704,0,PhD,Skilled Manual,Y
+11087,Mr.,Daniel,Zhu,12/26/1962,M,F,daniel11087@adventure-works.com,39983,2,PhD,Management,N
+11088,Mr.,Priya,Patel,6/17/1986,S,M,priya11088@adventure-works.com,31324,4,PhD,Professional,Y
+11089,Mrs.,Shannon,Carlson,8/18/1963,S,M,shannon11089@adventure-works.com,101646,3,Masters,Clerical,Y
+11090,Ms.,Amit,Singh,7/20/1983,S,M,amit11090@adventure-works.com,53730,5,PhD,Professional,Y
+11091,Dr.,Liam,Khan,1/25/2001,S,F,liam11091@adventure-works.com,75812,1,High School,Skilled Manual,N
+11092,Ms.,Marco,Carlson,1/10/1964,M,M,marco11092@adventure-works.com,86867,3,Bachelors,Management,Y
+11093,Mr.,Michael,Davis,7/24/1961,M,F,michael11093@adventure-works.com,90445,2,Bachelors,Sales,Y
+11094,Dr.,Robin,Zhu,1/3/2001,M,F,robin11094@adventure-works.com,53735,2,PhD,Clerical,Y
+11095,Ms.,Daniel,Singh,11/23/1963,M,F,daniel11095@adventure-works.com,57695,0,Bachelors,Consultant,N
+11096,Ms.,Amit,Wilson,9/30/1962,S,F,amit11096@adventure-works.com,41604,0,PhD,Management,N
+11097,Dr.,Julio,Patel,1/29/1982,S,F,julio11097@adventure-works.com,46958,4,Masters,Professional,N
+11098,Dr.,Daniel,Verhoff,6/19/2000,S,F,daniel11098@adventure-works.com,112216,3,Bachelors,Clerical,N
+11099,Mr.,Sophia,Brown,12/9/1990,M,F,sophia11099@adventure-works.com,82029,0,Bachelors,Skilled Manual,N
+11100,Mr.,Julio,Davis,5/19/1989,S,F,julio11100@adventure-works.com,31439,4,Masters,Sales,Y
+11101,Mrs.,John,Davis,3/12/2000,M,F,john11101@adventure-works.com,114006,2,Bachelors,Sales,N
+11102,Ms.,Amit,Torres,6/3/1970,S,F,amit11102@adventure-works.com,87562,0,Bachelors,Clerical,Y
+11103,Dr.,Liam,Garcia,4/15/1992,S,F,liam11103@adventure-works.com,44336,2,PhD,Sales,Y
+11104,Dr.,Priya,Yang,3/30/1991,M,F,priya11104@adventure-works.com,35384,5,Bachelors,Clerical,Y
+11105,Ms.,Daniel,Yang,1/28/1965,M,M,daniel11105@adventure-works.com,118948,0,High School,Consultant,Y
+11106,Dr.,Olivia,Carlson,10/2/1985,M,F,olivia11106@adventure-works.com,92429,2,High School,Professional,N
+11107,Dr.,Liam,Wilson,8/16/1982,S,M,liam11107@adventure-works.com,119726,3,PhD,Professional,Y
+11108,Mr.,Julio,Wilson,8/18/1987,S,M,julio11108@adventure-works.com,71035,2,PhD,Clerical,Y
+11109,Mr.,Julio,Johnson,4/15/1963,S,F,julio11109@adventure-works.com,70790,4,Bachelors,Clerical,N
+11110,Ms.,Olivia,Torres,12/9/1987,M,M,olivia11110@adventure-works.com,43168,4,Masters,Skilled Manual,Y
+11111,Mr.,Julio,Mehta,4/24/1961,M,F,julio11111@adventure-works.com,75927,4,Masters,Management,Y
+11112,Ms.,Elizabeth,Huang,10/1/1984,S,F,elizabeth11112@adventure-works.com,118826,4,High School,Professional,Y
+11113,Mr.,Shannon,Yang,5/5/1962,M,M,shannon11113@adventure-works.com,100580,4,Masters,Consultant,Y
+11114,Mr.,Neha,Torres,8/10/1970,S,F,neha11114@adventure-works.com,92357,4,Bachelors,Sales,N
+11115,Ms.,Robin,Carlson,12/15/1988,M,F,robin11115@adventure-works.com,92256,3,High School,Skilled Manual,N
+11116,Dr.,Sophia,Huang,11/14/1974,S,M,sophia11116@adventure-works.com,113747,0,Bachelors,Clerical,Y
+11117,Ms.,Amit,Verhoff,5/28/1964,S,M,amit11117@adventure-works.com,32273,1,High School,Professional,Y
+11118,Mrs.,Noah,Ruiz,3/17/1987,S,M,noah11118@adventure-works.com,101980,1,High School,Professional,Y
+11119,Ms.,Sarah,Zhu,1/12/1976,M,M,sarah11119@adventure-works.com,111393,0,Masters,Sales,Y
+11120,Ms.,Olivia,Patel,3/1/1979,M,M,olivia11120@adventure-works.com,39566,5,Bachelors,Skilled Manual,N
+11121,Ms.,Priya,Ruiz,7/26/1979,S,F,priya11121@adventure-works.com,99804,1,High School,Management,N
+11122,Mrs.,Michael,Sharma,3/31/1994,M,F,michael11122@adventure-works.com,117311,4,High School,Professional,N
+11123,Ms.,Liam,Johnson,4/11/1972,M,F,liam11123@adventure-works.com,102708,3,High School,Professional,Y
+11124,Mrs.,Sarah,Zhu,12/2/1996,S,F,sarah11124@adventure-works.com,61063,1,High School,Sales,N
+11125,Dr.,Amit,Huang,7/8/1970,M,F,amit11125@adventure-works.com,98821,3,Masters,Professional,N
+11126,Mr.,John,Sharma,6/12/1970,S,F,john11126@adventure-works.com,66730,5,PhD,Skilled Manual,Y
+11127,Ms.,Marco,Yang,6/15/1997,S,F,marco11127@adventure-works.com,112897,1,PhD,Sales,N
+11128,Ms.,Olivia,Carlson,10/13/1960,M,M,olivia11128@adventure-works.com,78513,3,Masters,Consultant,Y
+11129,Mr.,Amit,Patel,7/24/1990,S,M,amit11129@adventure-works.com,52151,0,PhD,Professional,N
+11130,Mr.,Ruben,Mehta,10/11/1961,M,F,ruben11130@adventure-works.com,39839,0,High School,Sales,N
+11131,Dr.,Daniel,Wilson,7/19/1967,M,M,daniel11131@adventure-works.com,116530,2,PhD,Management,Y
+11132,Ms.,Christy,Taylor,10/17/1984,M,F,christy11132@adventure-works.com,78030,3,PhD,Skilled Manual,N
+11133,Mr.,Olivia,Mehta,12/21/1961,S,F,olivia11133@adventure-works.com,78092,3,High School,Sales,N
+11134,Dr.,Sophia,Mehta,8/5/1982,S,M,sophia11134@adventure-works.com,60058,1,PhD,Consultant,N
+11135,Dr.,Priya,Yang,10/18/1995,M,M,priya11135@adventure-works.com,87172,3,PhD,Management,Y
+11136,Mr.,Neha,Johnson,2/26/1966,S,M,neha11136@adventure-works.com,82244,0,Bachelors,Skilled Manual,Y
+11137,Dr.,Noah,Smith,8/18/1973,M,M,noah11137@adventure-works.com,82513,4,PhD,Professional,Y
+11138,Mr.,Michael,Huang,3/3/1978,S,M,michael11138@adventure-works.com,56414,5,Masters,Clerical,N
+11139,Mrs.,Eugene,Smith,7/6/1992,S,F,eugene11139@adventure-works.com,94727,0,High School,Consultant,Y
+11140,Dr.,Amit,Sharma,2/6/1983,M,M,amit11140@adventure-works.com,95855,4,Bachelors,Skilled Manual,N
+11141,Dr.,Michael,Singh,2/12/1983,M,F,michael11141@adventure-works.com,104322,1,Bachelors,Professional,N
+11142,Dr.,David,Miller,8/30/1991,S,F,david11142@adventure-works.com,80575,1,Masters,Clerical,N
+11143,Mr.,Christy,Johnson,9/28/1979,M,M,christy11143@adventure-works.com,77880,2,High School,Clerical,N
+11144,Ms.,Sophia,Khan,3/23/1975,M,M,sophia11144@adventure-works.com,81766,3,PhD,Consultant,N
+11145,Mr.,Eugene,Khan,11/2/1986,M,M,eugene11145@adventure-works.com,44116,5,Bachelors,Skilled Manual,N
+11146,Mrs.,Sophia,Ruiz,4/18/1997,S,F,sophia11146@adventure-works.com,77079,1,High School,Consultant,N
+11147,Mr.,Eugene,Ruiz,8/29/1965,M,M,eugene11147@adventure-works.com,107113,0,Masters,Professional,N
+11148,Mr.,Amit,Khan,8/9/1960,S,M,amit11148@adventure-works.com,95178,1,Masters,Clerical,N
+11149,Mr.,Noah,Brown,12/19/1970,S,M,noah11149@adventure-works.com,114956,3,Bachelors,Professional,Y
+11150,Ms.,Ruben,Khan,10/17/1995,S,F,ruben11150@adventure-works.com,40580,2,Masters,Professional,Y
+11151,Mrs.,Marco,Zhu,10/24/1997,M,F,marco11151@adventure-works.com,59237,1,High School,Clerical,N
+11152,Mrs.,Shannon,Ruiz,9/30/1998,M,M,shannon11152@adventure-works.com,73704,0,High School,Sales,N
+11153,Mr.,Eugene,Brown,4/26/1986,S,M,eugene11153@adventure-works.com,97947,4,Bachelors,Sales,N
+11154,Dr.,Christy,Sharma,9/1/1970,M,F,christy11154@adventure-works.com,33305,1,High School,Management,N
+11155,Mrs.,Michael,Garcia,5/9/1993,S,M,michael11155@adventure-works.com,49414,1,Bachelors,Professional,N
+11156,Mr.,Shannon,Taylor,4/17/1982,S,M,shannon11156@adventure-works.com,34841,0,Bachelors,Sales,N
+11157,Mr.,Olivia,Mehta,12/18/1973,M,M,olivia11157@adventure-works.com,117332,0,Masters,Skilled Manual,N
+11158,Mr.,Michael,Sharma,5/21/1976,M,F,michael11158@adventure-works.com,62598,5,PhD,Professional,Y
+11159,Dr.,Julio,Zhu,12/17/1975,S,M,julio11159@adventure-works.com,61009,4,Masters,Management,Y
+11160,Mr.,David,Verhoff,10/15/1972,M,F,david11160@adventure-works.com,69762,3,PhD,Clerical,N
+11161,Ms.,Robin,Huang,2/22/1963,S,M,robin11161@adventure-works.com,42265,4,Masters,Consultant,Y
+11162,Ms.,Amit,Ruiz,11/19/1992,M,F,amit11162@adventure-works.com,53551,0,PhD,Professional,Y
+11163,Mrs.,Priya,Sharma,2/16/1961,S,M,priya11163@adventure-works.com,42665,5,High School,Clerical,Y
+11164,Dr.,Priya,Zhu,11/21/1998,S,F,priya11164@adventure-works.com,89228,2,Masters,Professional,Y
+11165,Ms.,Elizabeth,Carlson,10/17/2000,S,F,elizabeth11165@adventure-works.com,112097,4,PhD,Professional,Y
+11166,Mrs.,Sophia,Ruiz,8/21/1984,M,F,sophia11166@adventure-works.com,95475,5,PhD,Consultant,N
+11167,Dr.,Daniel,Sharma,6/7/1960,S,M,daniel11167@adventure-works.com,56768,4,PhD,Clerical,N
+11168,Mr.,Sophia,Torres,6/10/1999,S,M,sophia11168@adventure-works.com,116382,2,Bachelors,Consultant,Y
+11169,Dr.,Liam,Mehta,9/1/1977,S,F,liam11169@adventure-works.com,112304,1,Bachelors,Management,Y
+11170,Ms.,Eugene,Khan,2/8/1980,S,M,eugene11170@adventure-works.com,92847,4,Masters,Skilled Manual,N
+11171,Mrs.,Christy,Carlson,7/28/1974,M,M,christy11171@adventure-works.com,110103,5,High School,Skilled Manual,N
+11172,Ms.,Ruben,Johnson,4/16/1983,S,F,ruben11172@adventure-works.com,52951,0,PhD,Management,Y
+11173,Mr.,Sophia,Brown,6/16/1996,M,M,sophia11173@adventure-works.com,50831,5,Masters,Sales,Y
+11174,Mrs.,Noah,Ruiz,1/19/1973,S,F,noah11174@adventure-works.com,43380,5,Masters,Consultant,N
+11175,Mr.,Sarah,Khan,9/11/1964,M,F,sarah11175@adventure-works.com,118185,2,High School,Consultant,N
+11176,Dr.,Sarah,Patel,6/21/1982,M,F,sarah11176@adventure-works.com,81876,0,Bachelors,Clerical,N
+11177,Mr.,Neha,Miller,2/19/1963,S,F,neha11177@adventure-works.com,74424,2,Bachelors,Sales,N
+11178,Ms.,John,Brown,12/10/1966,S,M,john11178@adventure-works.com,91604,0,Masters,Management,Y
+11179,Mrs.,Robin,Sharma,3/15/1978,M,F,robin11179@adventure-works.com,105074,0,PhD,Sales,Y
+11180,Ms.,Sophia,Wilson,6/30/1998,S,M,sophia11180@adventure-works.com,54386,0,Bachelors,Sales,Y
+11181,Mr.,Ruben,Garcia,11/6/1982,M,M,ruben11181@adventure-works.com,79487,0,Masters,Clerical,N
+11182,Dr.,Priya,Patel,11/2/1975,M,F,priya11182@adventure-works.com,91653,5,High School,Clerical,Y
+11183,Mrs.,John,Miller,1/8/1993,M,M,john11183@adventure-works.com,91597,1,PhD,Management,N
+11184,Dr.,Julio,Sharma,3/19/1968,S,F,julio11184@adventure-works.com,79197,3,Bachelors,Skilled Manual,Y
+11185,Ms.,Michael,Mehta,2/10/1968,M,F,michael11185@adventure-works.com,106455,4,PhD,Skilled Manual,N
+11186,Mr.,John,Carlson,3/11/1984,M,M,john11186@adventure-works.com,96701,3,Bachelors,Sales,N
+11187,Ms.,John,Smith,7/9/1961,S,M,john11187@adventure-works.com,96244,2,Bachelors,Clerical,N
+11188,Mrs.,Shannon,Yang,8/20/1972,M,M,shannon11188@adventure-works.com,52900,5,PhD,Sales,N
+11189,Ms.,Amit,Verhoff,2/14/1966,M,M,amit11189@adventure-works.com,59182,0,Bachelors,Professional,N
+11190,Mr.,Michael,Carlson,10/5/1995,S,F,michael11190@adventure-works.com,105065,1,PhD,Clerical,Y
+11191,Dr.,Elizabeth,Verhoff,7/30/1983,M,M,elizabeth11191@adventure-works.com,34550,5,Masters,Consultant,Y
+11192,Mrs.,Priya,Wilson,8/23/1985,M,M,priya11192@adventure-works.com,110651,1,PhD,Clerical,N
+11193,Mrs.,Neha,Khan,7/6/1989,S,M,neha11193@adventure-works.com,94399,4,High School,Clerical,Y
+11194,Ms.,Liam,Torres,5/18/1972,S,F,liam11194@adventure-works.com,113175,1,Masters,Clerical,N
+11195,Mr.,Olivia,Johnson,10/28/1991,S,M,olivia11195@adventure-works.com,69735,2,Masters,Clerical,Y
+11196,Mr.,Marco,Davis,4/17/1961,S,M,marco11196@adventure-works.com,53669,3,High School,Skilled Manual,Y
+11197,Mr.,Sarah,Ruiz,3/5/1974,M,M,sarah11197@adventure-works.com,35582,5,High School,Consultant,Y
+11198,Ms.,Noah,Smith,6/15/1965,S,F,noah11198@adventure-works.com,43188,0,PhD,Clerical,Y
+11199,Mr.,Robin,Carlson,8/28/1977,S,M,robin11199@adventure-works.com,113523,2,Bachelors,Consultant,Y
+11200,Ms.,Noah,Khan,11/1/1997,M,M,noah11200@adventure-works.com,109950,4,Bachelors,Professional,N
+11201,Ms.,Olivia,Carlson,1/1/1984,S,F,olivia11201@adventure-works.com,96034,1,PhD,Sales,N
+11202,Mr.,David,Torres,1/29/2000,S,F,david11202@adventure-works.com,96498,3,Bachelors,Professional,Y
+11203,Mrs.,Daniel,Johnson,10/1/1965,M,F,daniel11203@adventure-works.com,80560,3,PhD,Management,N
+11204,Dr.,Eugene,Sharma,4/8/1997,S,M,eugene11204@adventure-works.com,68318,0,Bachelors,Consultant,N
+11205,Ms.,Marco,Patel,8/17/1986,S,M,marco11205@adventure-works.com,88563,0,Bachelors,Skilled Manual,N
+11206,Dr.,John,Brown,4/8/1993,S,M,john11206@adventure-works.com,90496,4,High School,Management,Y
+11207,Ms.,David,Yang,9/19/1972,S,F,david11207@adventure-works.com,71546,1,Bachelors,Consultant,N
+11208,Mr.,Marco,Smith,8/1/1985,S,F,marco11208@adventure-works.com,35921,3,Bachelors,Clerical,Y
+11209,Dr.,Shannon,Carlson,11/13/1976,M,F,shannon11209@adventure-works.com,84221,0,High School,Skilled Manual,Y
+11210,Ms.,Olivia,Singh,12/14/1963,M,F,olivia11210@adventure-works.com,30271,5,Bachelors,Skilled Manual,N
+11211,Ms.,Neha,Yang,9/1/1978,S,F,neha11211@adventure-works.com,68900,2,High School,Professional,Y
+11212,Mrs.,Daniel,Wilson,12/29/1981,M,M,daniel11212@adventure-works.com,116693,4,PhD,Consultant,Y
+11213,Mrs.,Noah,Carlson,6/15/1988,S,F,noah11213@adventure-works.com,65804,2,Masters,Skilled Manual,N
+11214,Mrs.,Marco,Carlson,3/5/1993,M,M,marco11214@adventure-works.com,33416,1,Bachelors,Sales,N
+11215,Ms.,Liam,Davis,11/15/1974,M,F,liam11215@adventure-works.com,112095,2,High School,Skilled Manual,N
+11216,Ms.,Sarah,Ruiz,5/7/1982,S,F,sarah11216@adventure-works.com,79360,4,Bachelors,Professional,N
+11217,Ms.,Marco,Miller,9/11/1966,M,F,marco11217@adventure-works.com,48333,1,PhD,Professional,N
+11218,Dr.,Amit,Mehta,3/1/1976,M,M,amit11218@adventure-works.com,30293,5,High School,Sales,N
+11219,Dr.,Sarah,Mehta,4/5/1991,M,F,sarah11219@adventure-works.com,88560,2,PhD,Management,Y
+11220,Dr.,Noah,Ruiz,6/16/1966,M,M,noah11220@adventure-works.com,112498,4,PhD,Clerical,N
+11221,Mrs.,David,Ruiz,4/18/1998,M,M,david11221@adventure-works.com,78266,4,Bachelors,Management,N
+11222,Mr.,Julio,Mehta,11/24/1999,S,M,julio11222@adventure-works.com,39080,0,PhD,Clerical,N
+11223,Dr.,Robin,Johnson,7/1/1981,M,M,robin11223@adventure-works.com,75510,3,Masters,Sales,Y
+11224,Dr.,John,Mehta,3/18/1980,S,F,john11224@adventure-works.com,45683,0,Bachelors,Consultant,Y
+11225,Ms.,Ruben,Zhu,7/4/1995,S,M,ruben11225@adventure-works.com,97765,0,High School,Consultant,N
+11226,Mr.,Elizabeth,Taylor,3/2/1967,M,F,elizabeth11226@adventure-works.com,73614,4,High School,Sales,Y
+11227,Ms.,Priya,Zhu,11/28/1982,S,F,priya11227@adventure-works.com,41021,4,High School,Professional,Y
+11228,Ms.,Olivia,Mehta,7/5/1973,M,M,olivia11228@adventure-works.com,115879,5,High School,Skilled Manual,N
+11229,Dr.,Michael,Smith,1/13/1979,S,M,michael11229@adventure-works.com,81296,0,High School,Management,N
+11230,Mrs.,John,Taylor,9/20/2000,S,F,john11230@adventure-works.com,116727,2,Bachelors,Skilled Manual,Y
+11231,Mrs.,Shannon,Johnson,7/1/1989,S,M,shannon11231@adventure-works.com,33411,2,Masters,Skilled Manual,N
+11232,Ms.,Sophia,Wilson,7/16/1978,M,F,sophia11232@adventure-works.com,52280,5,PhD,Consultant,Y
+11233,Dr.,Sarah,Taylor,3/20/1988,M,M,sarah11233@adventure-works.com,86864,1,PhD,Professional,N
+11234,Dr.,Sophia,Sharma,7/5/1996,S,F,sophia11234@adventure-works.com,95137,5,Bachelors,Management,Y
+11235,Ms.,Sophia,Davis,1/30/1966,M,M,sophia11235@adventure-works.com,111447,5,Bachelors,Clerical,Y
+11236,Mr.,Robin,Brown,2/23/1964,S,M,robin11236@adventure-works.com,85948,2,PhD,Clerical,Y
+11237,Mr.,Eugene,Miller,5/19/1989,S,F,eugene11237@adventure-works.com,113038,3,Masters,Sales,N
+11238,Ms.,Neha,Huang,11/2/1992,S,M,neha11238@adventure-works.com,102070,0,Bachelors,Consultant,N
+11239,Mrs.,Elizabeth,Huang,8/25/1974,M,M,elizabeth11239@adventure-works.com,90432,0,Bachelors,Clerical,N
+11240,Dr.,Liam,Khan,3/22/1976,S,M,liam11240@adventure-works.com,103324,5,High School,Clerical,N
+11241,Mr.,Liam,Sharma,5/24/1972,S,F,liam11241@adventure-works.com,104782,5,Masters,Sales,Y
+11242,Mrs.,Olivia,Davis,3/17/1975,M,F,olivia11242@adventure-works.com,58888,1,Bachelors,Management,Y
+11243,Mrs.,Priya,Wilson,6/25/1998,M,F,priya11243@adventure-works.com,58181,3,Bachelors,Skilled Manual,N
+11244,Ms.,Sarah,Smith,6/19/1964,M,F,sarah11244@adventure-works.com,57591,3,PhD,Clerical,N
+11245,Mrs.,Marco,Carlson,9/20/1991,S,F,marco11245@adventure-works.com,58929,3,PhD,Management,N
+11246,Mr.,Neha,Johnson,1/13/1996,M,M,neha11246@adventure-works.com,93071,0,PhD,Skilled Manual,N
+11247,Dr.,Sophia,Khan,11/4/1982,S,F,sophia11247@adventure-works.com,106378,2,High School,Skilled Manual,Y
+11248,Ms.,Shannon,Wilson,7/30/1970,S,F,shannon11248@adventure-works.com,97317,4,Bachelors,Management,N
+11249,Mr.,Liam,Johnson,5/11/1963,M,M,liam11249@adventure-works.com,90455,2,High School,Sales,N
+11250,Dr.,Marco,Taylor,2/3/1971,S,M,marco11250@adventure-works.com,69941,2,Bachelors,Management,N
+11251,Mr.,Shannon,Yang,4/30/1998,S,F,shannon11251@adventure-works.com,104472,4,Masters,Sales,N
+11252,Mrs.,Robin,Verhoff,11/23/1985,M,M,robin11252@adventure-works.com,74580,3,PhD,Skilled Manual,N
+11253,Mrs.,Julio,Zhu,9/18/1986,M,M,julio11253@adventure-works.com,70681,1,Masters,Skilled Manual,N
+11254,Mr.,Ruben,Verhoff,1/17/1977,S,F,ruben11254@adventure-works.com,83893,2,Masters,Professional,N
+11255,Dr.,Marco,Singh,10/29/1997,M,M,marco11255@adventure-works.com,97256,1,PhD,Management,N
+11256,Dr.,David,Verhoff,12/23/1996,S,M,david11256@adventure-works.com,50863,4,Masters,Management,N
+11257,Ms.,Priya,Ruiz,4/2/1966,S,F,priya11257@adventure-works.com,65152,0,Bachelors,Management,Y
+11258,Mr.,Eugene,Patel,12/23/1986,M,M,eugene11258@adventure-works.com,114946,1,Masters,Management,Y
+11259,Dr.,David,Patel,9/1/1970,S,F,david11259@adventure-works.com,59051,1,PhD,Consultant,N
+11260,Dr.,Michael,Zhu,12/8/1982,M,F,michael11260@adventure-works.com,116911,1,PhD,Professional,Y
+11261,Mr.,Julio,Torres,1/14/1979,M,F,julio11261@adventure-works.com,78298,0,Masters,Clerical,N
+11262,Mr.,Liam,Singh,4/9/1975,S,F,liam11262@adventure-works.com,102185,0,High School,Professional,Y
+11263,Ms.,Julio,Torres,5/11/1993,S,M,julio11263@adventure-works.com,48279,0,Masters,Skilled Manual,N
+11264,Dr.,Sarah,Khan,5/18/1986,M,F,sarah11264@adventure-works.com,59145,5,PhD,Clerical,N
+11265,Dr.,Robin,Carlson,7/6/2000,M,F,robin11265@adventure-works.com,94316,4,Masters,Consultant,Y
+11266,Ms.,Daniel,Carlson,3/20/1995,S,M,daniel11266@adventure-works.com,105948,4,PhD,Consultant,N
+11267,Ms.,Liam,Garcia,1/5/1995,M,F,liam11267@adventure-works.com,35794,0,High School,Management,N
+11268,Ms.,Marco,Johnson,9/16/1982,M,F,marco11268@adventure-works.com,96688,4,High School,Professional,N
+11269,Dr.,Neha,Sharma,12/23/1963,S,F,neha11269@adventure-works.com,52798,4,Bachelors,Sales,Y
+11270,Dr.,Neha,Zhu,3/30/1989,S,M,neha11270@adventure-works.com,67540,0,High School,Professional,N
+11271,Ms.,Marco,Taylor,9/29/1981,S,M,marco11271@adventure-works.com,76542,2,High School,Sales,Y
+11272,Mrs.,John,Wilson,4/6/1961,M,M,john11272@adventure-works.com,70080,0,PhD,Management,Y
+11273,Mrs.,Liam,Sharma,9/8/1983,S,M,liam11273@adventure-works.com,112099,2,PhD,Professional,Y
+11274,Dr.,Olivia,Verhoff,6/20/1990,M,F,olivia11274@adventure-works.com,93367,4,Bachelors,Consultant,N
+11275,Mr.,Sophia,Khan,2/8/1992,S,F,sophia11275@adventure-works.com,37172,0,High School,Sales,Y
+11276,Mrs.,David,Garcia,7/19/1968,M,F,david11276@adventure-works.com,93651,3,High School,Skilled Manual,Y
+11277,Dr.,Noah,Verhoff,11/1/1985,S,M,noah11277@adventure-works.com,90437,0,Masters,Professional,Y
+11278,Mrs.,Michael,Ruiz,11/7/1988,M,F,michael11278@adventure-works.com,72016,4,Bachelors,Consultant,Y
+11279,Ms.,Amit,Khan,6/23/1997,M,M,amit11279@adventure-works.com,59987,0,High School,Clerical,N
+11280,Ms.,Shannon,Ruiz,1/25/1995,M,F,shannon11280@adventure-works.com,80926,1,Bachelors,Clerical,Y
+11281,Mrs.,Sophia,Huang,11/18/1960,S,F,sophia11281@adventure-works.com,64687,3,High School,Clerical,Y
+11282,Ms.,Elizabeth,Khan,2/23/1966,M,F,elizabeth11282@adventure-works.com,100801,0,PhD,Consultant,Y
+11283,Mr.,Christy,Garcia,10/16/1968,S,M,christy11283@adventure-works.com,47179,4,PhD,Consultant,Y
+11284,Mrs.,Michael,Taylor,6/18/1969,S,M,michael11284@adventure-works.com,77561,0,Bachelors,Skilled Manual,Y
+11285,Dr.,Elizabeth,Smith,7/25/1982,S,M,elizabeth11285@adventure-works.com,47909,4,PhD,Sales,Y
+11286,Mrs.,Neha,Miller,12/11/1999,M,F,neha11286@adventure-works.com,57390,2,Masters,Consultant,Y
+11287,Dr.,Daniel,Sharma,11/19/1981,M,F,daniel11287@adventure-works.com,119403,5,Masters,Management,Y
+11288,Dr.,Michael,Mehta,2/9/1979,M,F,michael11288@adventure-works.com,30428,0,Bachelors,Sales,Y
+11289,Dr.,Sophia,Garcia,2/11/1997,M,F,sophia11289@adventure-works.com,118491,3,Masters,Management,Y
+11290,Mrs.,Priya,Ruiz,8/1/1997,S,M,priya11290@adventure-works.com,104763,5,High School,Sales,Y
+11291,Dr.,Liam,Patel,3/5/1976,S,M,liam11291@adventure-works.com,113318,0,PhD,Sales,N
+11292,Mr.,Amit,Davis,6/7/1993,S,M,amit11292@adventure-works.com,82677,0,High School,Professional,N
+11293,Mr.,Julio,Mehta,7/5/1961,S,M,julio11293@adventure-works.com,41780,5,High School,Management,Y
+11294,Mrs.,Priya,Ruiz,6/25/1996,M,F,priya11294@adventure-works.com,116842,1,High School,Consultant,N
+11295,Ms.,Marco,Smith,7/10/1982,M,M,marco11295@adventure-works.com,115969,3,High School,Sales,N
+11296,Dr.,Amit,Carlson,12/7/1980,S,M,amit11296@adventure-works.com,109927,4,High School,Skilled Manual,Y
+11297,Mr.,Shannon,Huang,6/30/1993,M,F,shannon11297@adventure-works.com,112015,1,High School,Management,N
+11298,Dr.,Noah,Khan,11/11/1967,S,M,noah11298@adventure-works.com,103529,2,Bachelors,Professional,N
+11299,Mr.,Julio,Brown,3/4/1960,S,M,julio11299@adventure-works.com,55685,4,Masters,Professional,N
+11300,Dr.,Sophia,Garcia,6/2/1994,S,F,sophia11300@adventure-works.com,62360,3,Bachelors,Management,N
+11301,Dr.,Eugene,Smith,2/27/1991,M,F,eugene11301@adventure-works.com,91219,4,PhD,Sales,Y
+11302,Mr.,Sophia,Brown,9/28/1973,M,F,sophia11302@adventure-works.com,31059,2,Masters,Management,N
+11303,Ms.,Michael,Wilson,12/10/1992,S,F,michael11303@adventure-works.com,93944,3,PhD,Sales,Y
+11304,Mr.,Daniel,Davis,2/27/2000,S,F,daniel11304@adventure-works.com,83886,3,Bachelors,Management,N
+11305,Mr.,David,Mehta,10/29/1974,S,M,david11305@adventure-works.com,102071,0,High School,Professional,Y
+11306,Ms.,Eugene,Huang,5/19/1999,M,F,eugene11306@adventure-works.com,56720,1,High School,Management,Y
+11307,Ms.,Ruben,Johnson,7/19/1993,M,F,ruben11307@adventure-works.com,66562,2,Masters,Clerical,Y
+11308,Mr.,Daniel,Khan,4/6/1972,S,M,daniel11308@adventure-works.com,65025,5,PhD,Sales,Y
+11309,Mrs.,Liam,Singh,9/26/1985,M,M,liam11309@adventure-works.com,63526,2,High School,Professional,Y
+11310,Mrs.,Elizabeth,Ruiz,6/3/1992,M,F,elizabeth11310@adventure-works.com,119419,0,PhD,Professional,N
+11311,Dr.,Liam,Verhoff,6/10/1979,M,M,liam11311@adventure-works.com,89672,5,Masters,Sales,N
+11312,Dr.,Ruben,Ruiz,7/16/1960,S,F,ruben11312@adventure-works.com,70073,3,PhD,Management,Y
+11313,Dr.,Amit,Carlson,1/19/1965,M,F,amit11313@adventure-works.com,99273,1,Bachelors,Clerical,N
+11314,Dr.,Christy,Taylor,1/21/1980,S,M,christy11314@adventure-works.com,83749,1,PhD,Consultant,N
+11315,Mr.,Olivia,Taylor,6/3/1972,M,M,olivia11315@adventure-works.com,66249,4,Masters,Clerical,N
+11316,Mrs.,Priya,Torres,10/26/1966,M,F,priya11316@adventure-works.com,91654,1,High School,Sales,N
+11317,Mr.,Sarah,Johnson,7/9/1968,M,F,sarah11317@adventure-works.com,90958,5,Bachelors,Consultant,Y
+11318,Ms.,Julio,Carlson,11/2/1992,M,F,julio11318@adventure-works.com,87357,1,PhD,Skilled Manual,Y
+11319,Ms.,Olivia,Singh,1/16/1977,S,F,olivia11319@adventure-works.com,91430,5,High School,Sales,N
+11320,Mr.,Priya,Sharma,6/25/1994,M,F,priya11320@adventure-works.com,60730,1,Bachelors,Professional,Y
+11321,Mr.,Christy,Davis,2/9/1992,S,M,christy11321@adventure-works.com,58171,3,PhD,Sales,N
+11322,Mrs.,Marco,Huang,11/30/1999,S,F,marco11322@adventure-works.com,69692,2,Masters,Consultant,Y
+11323,Ms.,Marco,Wilson,5/8/1991,S,F,marco11323@adventure-works.com,30912,2,Bachelors,Skilled Manual,Y
+11324,Ms.,Amit,Wilson,12/23/1966,S,F,amit11324@adventure-works.com,31513,5,Bachelors,Consultant,N
+11325,Mr.,Amit,Zhu,8/11/1981,M,F,amit11325@adventure-works.com,56703,1,High School,Sales,Y
+11326,Ms.,Julio,Torres,6/27/1977,M,M,julio11326@adventure-works.com,71064,2,Masters,Sales,N
+11327,Mr.,Neha,Davis,7/25/1969,M,M,neha11327@adventure-works.com,115274,2,PhD,Consultant,Y
+11328,Mrs.,Priya,Patel,2/2/1991,S,M,priya11328@adventure-works.com,70746,5,Bachelors,Management,Y
+11329,Ms.,John,Singh,2/8/1996,S,F,john11329@adventure-works.com,101956,2,Masters,Professional,N
+11330,Ms.,Ruben,Khan,6/6/1964,M,F,ruben11330@adventure-works.com,65864,1,High School,Consultant,Y
+11331,Mrs.,Sarah,Sharma,7/10/1962,S,M,sarah11331@adventure-works.com,73406,5,Masters,Clerical,N
+11332,Mrs.,Liam,Verhoff,6/8/1980,M,F,liam11332@adventure-works.com,30863,3,PhD,Sales,N
+11333,Mr.,John,Zhu,9/21/1982,S,F,john11333@adventure-works.com,80240,4,PhD,Clerical,Y
+11334,Dr.,Priya,Huang,3/29/1974,M,F,priya11334@adventure-works.com,49210,5,PhD,Management,Y
+11335,Mr.,Robin,Davis,4/15/2000,S,F,robin11335@adventure-works.com,90123,4,Bachelors,Consultant,Y
+11336,Ms.,Marco,Johnson,8/18/1986,S,M,marco11336@adventure-works.com,93378,5,Bachelors,Sales,N
+11337,Ms.,Sarah,Miller,1/17/2001,M,F,sarah11337@adventure-works.com,51671,1,High School,Consultant,N
+11338,Mrs.,Ruben,Davis,1/13/1990,M,M,ruben11338@adventure-works.com,89218,5,High School,Management,Y
+11339,Ms.,Marco,Khan,8/31/1998,S,M,marco11339@adventure-works.com,75542,3,PhD,Management,Y
+11340,Ms.,Neha,Taylor,6/13/1961,S,F,neha11340@adventure-works.com,73089,0,PhD,Management,Y
+11341,Mr.,Neha,Brown,4/27/1995,S,M,neha11341@adventure-works.com,50444,0,Bachelors,Sales,Y
+11342,Mr.,Liam,Wilson,6/8/1995,M,M,liam11342@adventure-works.com,59033,1,Masters,Consultant,Y
+11343,Dr.,Amit,Ruiz,6/30/1977,S,M,amit11343@adventure-works.com,103997,0,Bachelors,Management,N
+11344,Mrs.,Robin,Mehta,3/28/1969,S,M,robin11344@adventure-works.com,53527,5,Masters,Management,N
+11345,Mrs.,Shannon,Mehta,5/31/1965,M,F,shannon11345@adventure-works.com,43070,1,Bachelors,Skilled Manual,Y
+11346,Mr.,Daniel,Taylor,7/14/1985,M,F,daniel11346@adventure-works.com,108663,1,PhD,Skilled Manual,Y
+11347,Mrs.,Ruben,Miller,9/11/1994,M,F,ruben11347@adventure-works.com,48457,3,PhD,Professional,Y
+11348,Dr.,Daniel,Zhu,4/24/1968,M,M,daniel11348@adventure-works.com,36965,5,Masters,Sales,Y
+11349,Mr.,Priya,Taylor,11/16/1980,S,M,priya11349@adventure-works.com,45834,3,PhD,Clerical,N
+11350,Ms.,Daniel,Miller,5/21/1970,S,M,daniel11350@adventure-works.com,41392,4,High School,Consultant,N
+11351,Mr.,Robin,Smith,2/28/1992,M,M,robin11351@adventure-works.com,43499,5,Masters,Consultant,N
+11352,Ms.,Sophia,Carlson,10/6/2000,S,M,sophia11352@adventure-works.com,30223,1,Masters,Consultant,Y
+11353,Mrs.,Ruben,Taylor,5/19/1962,S,F,ruben11353@adventure-works.com,118634,0,Masters,Consultant,Y
+11354,Ms.,Eugene,Davis,5/24/1990,S,F,eugene11354@adventure-works.com,110016,3,Bachelors,Professional,Y
+11355,Dr.,Robin,Miller,3/11/1968,M,F,robin11355@adventure-works.com,97646,4,Bachelors,Skilled Manual,N
+11356,Mrs.,Noah,Taylor,1/10/1995,M,M,noah11356@adventure-works.com,75485,5,Masters,Professional,N
+11357,Dr.,Julio,Huang,7/29/1979,S,F,julio11357@adventure-works.com,87620,0,High School,Professional,Y
+11358,Dr.,Olivia,Verhoff,7/16/1968,M,M,olivia11358@adventure-works.com,49427,0,Masters,Management,N
+11359,Ms.,Priya,Ruiz,11/9/1985,M,F,priya11359@adventure-works.com,65080,3,Bachelors,Sales,N
+11360,Ms.,Elizabeth,Verhoff,7/28/1963,M,F,elizabeth11360@adventure-works.com,107129,4,PhD,Sales,Y
+11361,Ms.,Michael,Khan,6/18/1987,M,M,michael11361@adventure-works.com,71704,3,Bachelors,Sales,N
+11362,Dr.,Olivia,Patel,7/9/1997,M,M,olivia11362@adventure-works.com,33276,0,High School,Clerical,Y
+11363,Mr.,Shannon,Mehta,7/16/1976,M,F,shannon11363@adventure-works.com,60658,2,Bachelors,Sales,Y
+11364,Mr.,Noah,Torres,12/28/1975,M,F,noah11364@adventure-works.com,96537,1,Bachelors,Clerical,Y
+11365,Mr.,Michael,Miller,4/12/1984,M,M,michael11365@adventure-works.com,103307,5,Masters,Professional,N
+11366,Mrs.,Sarah,Taylor,11/11/1990,S,F,sarah11366@adventure-works.com,53586,1,Masters,Clerical,N
+11367,Mr.,Sarah,Patel,3/29/1964,M,M,sarah11367@adventure-works.com,30306,3,Bachelors,Skilled Manual,N
+11368,Mrs.,Shannon,Johnson,10/10/1999,M,M,shannon11368@adventure-works.com,47422,3,PhD,Clerical,N
+11369,Mrs.,Shannon,Carlson,9/8/1984,S,F,shannon11369@adventure-works.com,110984,5,Masters,Consultant,Y
+11370,Ms.,Shannon,Huang,11/11/1982,S,M,shannon11370@adventure-works.com,109208,1,High School,Management,N
+11371,Ms.,Daniel,Sharma,1/14/1995,S,M,daniel11371@adventure-works.com,91161,5,Bachelors,Clerical,Y
+11372,Dr.,Marco,Zhu,8/14/1982,M,F,marco11372@adventure-works.com,116743,1,Masters,Management,Y
+11373,Ms.,Michael,Verhoff,10/8/1965,M,F,michael11373@adventure-works.com,94264,3,Bachelors,Sales,Y
+11374,Dr.,Priya,Sharma,1/21/1962,M,F,priya11374@adventure-works.com,94362,3,Bachelors,Clerical,Y
+11375,Ms.,David,Singh,11/15/1975,M,F,david11375@adventure-works.com,47274,1,PhD,Sales,Y
+11376,Dr.,Neha,Patel,6/14/1991,S,M,neha11376@adventure-works.com,35808,2,Bachelors,Professional,Y
+11377,Dr.,Sarah,Garcia,4/2/1998,S,M,sarah11377@adventure-works.com,99122,4,PhD,Sales,N
+11378,Ms.,Amit,Verhoff,1/4/1991,S,M,amit11378@adventure-works.com,55760,2,High School,Professional,Y
+11379,Ms.,Noah,Wilson,1/15/2001,S,M,noah11379@adventure-works.com,61673,0,Masters,Consultant,Y
+11380,Mr.,Sarah,Sharma,1/8/1998,M,M,sarah11380@adventure-works.com,93717,3,PhD,Consultant,Y
+11381,Mrs.,Christy,Smith,5/29/1973,S,M,christy11381@adventure-works.com,71482,0,Masters,Consultant,N
+11382,Dr.,Ruben,Carlson,8/22/1984,M,M,ruben11382@adventure-works.com,94501,5,Masters,Consultant,Y
+11383,Ms.,Shannon,Smith,1/3/1967,M,M,shannon11383@adventure-works.com,53226,2,Masters,Clerical,Y
+11384,Mr.,Sarah,Taylor,12/3/1981,M,M,sarah11384@adventure-works.com,72393,5,Masters,Management,N
+11385,Mr.,Ruben,Patel,7/10/1993,M,M,ruben11385@adventure-works.com,57860,0,High School,Skilled Manual,N
+11386,Mr.,Sophia,Davis,6/20/1991,M,F,sophia11386@adventure-works.com,113257,1,Bachelors,Management,Y
+11387,Mr.,Sophia,Davis,10/29/1998,M,M,sophia11387@adventure-works.com,88670,1,Masters,Management,Y
+11388,Dr.,John,Singh,8/5/1976,M,F,john11388@adventure-works.com,104948,3,PhD,Consultant,N
+11389,Ms.,Liam,Sharma,8/7/1964,M,M,liam11389@adventure-works.com,114476,3,PhD,Clerical,Y
+11390,Ms.,Robin,Patel,4/24/1983,S,M,robin11390@adventure-works.com,114370,2,Masters,Skilled Manual,Y
+11391,Dr.,Noah,Singh,1/6/1974,S,M,noah11391@adventure-works.com,45610,0,Bachelors,Consultant,Y
+11392,Ms.,Neha,Taylor,4/29/1974,M,F,neha11392@adventure-works.com,73788,5,Bachelors,Consultant,N
+11393,Ms.,Eugene,Ruiz,7/22/1976,S,F,eugene11393@adventure-works.com,83507,3,Masters,Clerical,Y
+11394,Mrs.,David,Mehta,2/18/1989,M,F,david11394@adventure-works.com,82826,0,Bachelors,Management,N
+11395,Mrs.,David,Sharma,1/4/1980,M,F,david11395@adventure-works.com,87780,4,PhD,Sales,Y
+11396,Ms.,Eugene,Garcia,1/27/1985,S,F,eugene11396@adventure-works.com,52403,0,Bachelors,Consultant,Y
+11397,Mrs.,Noah,Verhoff,4/20/1998,M,F,noah11397@adventure-works.com,100362,1,PhD,Consultant,Y
+11398,Mr.,Liam,Zhu,5/9/1975,S,F,liam11398@adventure-works.com,62248,4,High School,Consultant,Y
+11399,Mrs.,Julio,Brown,9/11/1986,S,M,julio11399@adventure-works.com,118321,1,PhD,Skilled Manual,N
+11400,Mrs.,Noah,Yang,5/24/1980,M,F,noah11400@adventure-works.com,51298,2,High School,Clerical,Y
+11401,Dr.,Liam,Verhoff,7/14/1995,S,M,liam11401@adventure-works.com,79975,2,Bachelors,Management,Y
+11402,Mrs.,Julio,Zhu,5/20/1963,M,M,julio11402@adventure-works.com,46891,4,PhD,Professional,N
+11403,Mrs.,Elizabeth,Smith,1/11/1978,S,F,elizabeth11403@adventure-works.com,100653,5,Bachelors,Consultant,Y
+11404,Dr.,Eugene,Singh,6/24/1975,M,M,eugene11404@adventure-works.com,83609,0,High School,Clerical,N
+11405,Mrs.,Robin,Patel,3/15/1978,M,F,robin11405@adventure-works.com,82285,5,Bachelors,Consultant,N
+11406,Dr.,Sophia,Khan,11/2/1969,S,M,sophia11406@adventure-works.com,118589,4,Bachelors,Skilled Manual,Y
+11407,Mrs.,Elizabeth,Mehta,6/29/1979,S,M,elizabeth11407@adventure-works.com,118689,1,Masters,Sales,Y
+11408,Dr.,Priya,Taylor,5/11/1999,M,F,priya11408@adventure-works.com,42797,5,High School,Consultant,N
+11409,Dr.,John,Johnson,3/7/1963,M,F,john11409@adventure-works.com,51253,4,PhD,Sales,Y
+11410,Mr.,Priya,Sharma,11/25/1991,M,F,priya11410@adventure-works.com,104213,3,High School,Professional,N
+11411,Mr.,Sophia,Garcia,2/6/1991,M,F,sophia11411@adventure-works.com,75039,1,High School,Skilled Manual,N
+11412,Dr.,Eugene,Johnson,7/22/1965,M,F,eugene11412@adventure-works.com,103152,2,High School,Clerical,Y
+11413,Ms.,Julio,Wilson,10/25/1989,S,F,julio11413@adventure-works.com,85492,1,High School,Management,N
+11414,Mrs.,Liam,Sharma,1/29/1990,S,M,liam11414@adventure-works.com,78594,0,High School,Sales,Y
+11415,Dr.,Elizabeth,Taylor,11/20/1978,M,F,elizabeth11415@adventure-works.com,49757,5,High School,Management,N
+11416,Mr.,Robin,Zhu,2/13/1980,S,F,robin11416@adventure-works.com,42657,3,PhD,Consultant,N
+11417,Dr.,Marco,Mehta,1/12/1960,M,M,marco11417@adventure-works.com,77979,5,Masters,Clerical,N
+11418,Ms.,Shannon,Sharma,1/26/1977,S,M,shannon11418@adventure-works.com,51166,5,Bachelors,Consultant,Y
+11419,Dr.,Eugene,Ruiz,1/26/1981,M,F,eugene11419@adventure-works.com,94300,3,High School,Consultant,Y
+11420,Dr.,Ruben,Davis,5/11/1980,S,F,ruben11420@adventure-works.com,108240,4,Bachelors,Skilled Manual,Y
+11421,Mr.,Eugene,Torres,7/24/1960,S,M,eugene11421@adventure-works.com,104065,2,PhD,Consultant,N
+11422,Dr.,Neha,Yang,7/13/1978,M,M,neha11422@adventure-works.com,32210,0,Masters,Clerical,N
+11423,Ms.,Noah,Wilson,3/26/1999,M,M,noah11423@adventure-works.com,91728,4,Bachelors,Clerical,Y
+11424,Mr.,Robin,Taylor,3/21/1985,S,M,robin11424@adventure-works.com,92500,1,High School,Skilled Manual,Y
+11425,Ms.,Neha,Ruiz,2/8/1980,M,M,neha11425@adventure-works.com,64077,1,Bachelors,Professional,N
+11426,Dr.,Michael,Taylor,2/9/1985,M,F,michael11426@adventure-works.com,47088,2,PhD,Skilled Manual,N
+11427,Mr.,Ruben,Garcia,9/20/1962,M,F,ruben11427@adventure-works.com,111047,5,Bachelors,Sales,Y
+11428,Mrs.,Christy,Miller,6/4/1982,M,M,christy11428@adventure-works.com,47688,5,PhD,Sales,N
+11429,Dr.,John,Zhu,5/23/1994,M,M,john11429@adventure-works.com,49687,1,PhD,Management,N
+11430,Mrs.,Julio,Miller,10/23/1998,S,F,julio11430@adventure-works.com,114428,0,High School,Skilled Manual,Y
+11431,Mr.,Sarah,Garcia,3/3/1964,M,M,sarah11431@adventure-works.com,82015,3,PhD,Management,Y
+11432,Ms.,Robin,Smith,3/8/1989,S,F,robin11432@adventure-works.com,88731,2,Bachelors,Skilled Manual,N
+11433,Ms.,Shannon,Wilson,3/27/1993,M,F,shannon11433@adventure-works.com,79275,3,High School,Management,N
+11434,Ms.,Daniel,Ruiz,5/25/1982,S,M,daniel11434@adventure-works.com,95183,2,High School,Sales,Y
+11435,Ms.,Julio,Carlson,11/17/1993,S,M,julio11435@adventure-works.com,107226,3,Masters,Consultant,N
+11436,Dr.,Elizabeth,Ruiz,2/17/1974,M,M,elizabeth11436@adventure-works.com,40164,4,High School,Clerical,N
+11437,Mr.,Neha,Yang,1/21/1962,M,M,neha11437@adventure-works.com,34169,3,High School,Skilled Manual,Y
+11438,Dr.,Michael,Patel,6/24/1995,M,M,michael11438@adventure-works.com,35700,1,Masters,Sales,N
+11439,Mr.,Christy,Smith,1/5/1965,M,M,christy11439@adventure-works.com,71324,2,High School,Consultant,Y
+11440,Dr.,Priya,Ruiz,7/16/1996,M,M,priya11440@adventure-works.com,79883,1,Masters,Clerical,Y
+11441,Dr.,Sophia,Patel,9/19/1994,M,F,sophia11441@adventure-works.com,86571,0,PhD,Management,N
+11442,Ms.,David,Smith,7/17/1969,S,F,david11442@adventure-works.com,47444,4,PhD,Clerical,Y
+11443,Mrs.,Eugene,Johnson,9/1/1968,M,M,eugene11443@adventure-works.com,94727,3,Masters,Management,N
+11444,Mr.,Julio,Torres,6/24/1972,S,M,julio11444@adventure-works.com,48194,2,Masters,Consultant,N
+11445,Dr.,Liam,Brown,5/28/1972,S,M,liam11445@adventure-works.com,79412,4,PhD,Professional,Y
+11446,Mr.,Michael,Carlson,7/17/1983,S,F,michael11446@adventure-works.com,96221,1,PhD,Professional,Y
+11447,Dr.,Marco,Ruiz,6/7/1975,S,F,marco11447@adventure-works.com,85840,0,Bachelors,Management,N
+11448,Mrs.,John,Carlson,6/30/1980,M,M,john11448@adventure-works.com,63011,4,PhD,Consultant,N
+11449,Mrs.,Priya,Johnson,12/20/1978,S,F,priya11449@adventure-works.com,68809,5,High School,Sales,N
+11450,Ms.,Shannon,Garcia,9/21/1996,M,F,shannon11450@adventure-works.com,68493,1,Masters,Management,N
+11451,Ms.,Eugene,Johnson,12/8/1981,M,F,eugene11451@adventure-works.com,92504,4,High School,Clerical,N
+11452,Dr.,Michael,Verhoff,5/8/1984,S,M,michael11452@adventure-works.com,60681,0,Bachelors,Professional,Y
+11453,Ms.,Sarah,Garcia,9/1/1977,S,M,sarah11453@adventure-works.com,112263,5,Masters,Sales,N
+11454,Ms.,Olivia,Zhu,4/12/1975,S,M,olivia11454@adventure-works.com,86667,2,High School,Sales,Y
+11455,Mrs.,Priya,Verhoff,11/29/1973,S,F,priya11455@adventure-works.com,94640,3,High School,Skilled Manual,N
+11456,Mr.,Michael,Garcia,9/22/1999,M,M,michael11456@adventure-works.com,75604,1,Masters,Consultant,N
+11457,Ms.,Shannon,Carlson,10/15/1987,S,F,shannon11457@adventure-works.com,92819,4,Masters,Professional,N
+11458,Dr.,Eugene,Patel,12/27/1976,M,M,eugene11458@adventure-works.com,83197,1,Masters,Management,Y
+11459,Mrs.,Shannon,Smith,7/13/1984,M,F,shannon11459@adventure-works.com,65946,5,PhD,Management,Y
+11460,Mr.,Sarah,Singh,1/13/1983,S,F,sarah11460@adventure-works.com,64693,1,High School,Sales,Y
+11461,Ms.,John,Torres,9/14/1965,M,F,john11461@adventure-works.com,81823,4,Bachelors,Clerical,N
+11462,Dr.,Eugene,Patel,6/7/1966,S,F,eugene11462@adventure-works.com,88681,2,High School,Sales,N
+11463,Mrs.,Daniel,Taylor,2/3/1983,S,M,daniel11463@adventure-works.com,70497,1,Bachelors,Sales,N
+11464,Mrs.,Julio,Smith,1/26/1973,S,F,julio11464@adventure-works.com,39732,2,Bachelors,Skilled Manual,Y
+11465,Ms.,Sophia,Johnson,6/4/1966,S,M,sophia11465@adventure-works.com,119060,3,PhD,Professional,Y
+11466,Dr.,Noah,Smith,9/17/1989,M,F,noah11466@adventure-works.com,75203,4,High School,Sales,Y
+11467,Dr.,David,Garcia,4/7/1966,S,M,david11467@adventure-works.com,63677,0,Masters,Management,N
+11468,Dr.,Ruben,Mehta,8/31/1962,S,M,ruben11468@adventure-works.com,93012,2,Bachelors,Skilled Manual,N
+11469,Mr.,Julio,Sharma,5/30/1971,M,F,julio11469@adventure-works.com,45863,5,Bachelors,Clerical,N
+11470,Mrs.,Marco,Zhu,3/26/1970,M,F,marco11470@adventure-works.com,91577,2,Masters,Professional,N
+11471,Mr.,Shannon,Patel,11/18/1962,S,M,shannon11471@adventure-works.com,107752,1,High School,Clerical,N
+11472,Dr.,Christy,Patel,2/11/1991,S,M,christy11472@adventure-works.com,86252,3,High School,Clerical,N
+11473,Mr.,Liam,Smith,7/16/1962,S,F,liam11473@adventure-works.com,75518,1,Bachelors,Consultant,Y
+11474,Mrs.,Elizabeth,Miller,4/27/1996,M,M,elizabeth11474@adventure-works.com,71841,3,Bachelors,Professional,N
+11475,Ms.,Noah,Ruiz,3/15/1983,S,M,noah11475@adventure-works.com,83701,1,PhD,Skilled Manual,Y
+11476,Dr.,David,Smith,6/8/1980,S,M,david11476@adventure-works.com,51680,1,Bachelors,Professional,Y
+11477,Mrs.,Christy,Garcia,2/9/1966,S,F,christy11477@adventure-works.com,88804,1,Bachelors,Skilled Manual,N
+11478,Mr.,David,Torres,4/15/1990,M,F,david11478@adventure-works.com,54324,1,Bachelors,Management,N
+11479,Ms.,Amit,Brown,2/7/1984,M,F,amit11479@adventure-works.com,51524,2,Bachelors,Sales,N
+11480,Mrs.,Daniel,Singh,5/8/1981,S,M,daniel11480@adventure-works.com,91517,5,PhD,Professional,N
+11481,Dr.,Liam,Smith,8/8/1960,S,M,liam11481@adventure-works.com,116310,5,PhD,Skilled Manual,Y
+11482,Ms.,John,Torres,5/19/1995,S,M,john11482@adventure-works.com,31630,0,Masters,Clerical,Y
+11483,Mrs.,Liam,Johnson,11/30/1986,M,F,liam11483@adventure-works.com,47204,5,High School,Consultant,Y
+11484,Mrs.,Sarah,Sharma,5/2/1970,M,M,sarah11484@adventure-works.com,91313,5,High School,Skilled Manual,Y
+11485,Mrs.,David,Davis,5/5/1991,M,M,david11485@adventure-works.com,87006,4,PhD,Skilled Manual,Y
+11486,Mr.,Sarah,Taylor,11/10/1962,M,M,sarah11486@adventure-works.com,117949,0,Masters,Sales,Y
+11487,Mrs.,Elizabeth,Smith,10/3/1992,S,F,elizabeth11487@adventure-works.com,118098,2,PhD,Sales,Y
+11488,Mr.,Marco,Patel,9/3/1990,M,F,marco11488@adventure-works.com,80928,1,High School,Professional,Y
+11489,Dr.,Neha,Ruiz,5/15/1962,S,M,neha11489@adventure-works.com,43046,5,PhD,Clerical,Y
+11490,Ms.,Noah,Smith,11/6/1991,S,M,noah11490@adventure-works.com,52513,1,Bachelors,Professional,N
+11491,Mr.,Priya,Torres,10/3/1984,M,M,priya11491@adventure-works.com,38894,2,Masters,Management,N
+11492,Mrs.,David,Taylor,11/5/1965,S,F,david11492@adventure-works.com,55438,3,Masters,Clerical,Y
+11493,Mrs.,Priya,Verhoff,9/12/1965,S,F,priya11493@adventure-works.com,53981,0,Masters,Professional,Y
+11494,Dr.,Julio,Taylor,1/22/1999,S,M,julio11494@adventure-works.com,83195,5,Masters,Sales,Y
+11495,Ms.,Ruben,Miller,2/20/1976,M,M,ruben11495@adventure-works.com,86491,1,Masters,Clerical,Y
+11496,Mr.,Daniel,Zhu,2/25/1967,S,M,daniel11496@adventure-works.com,39053,4,Bachelors,Professional,Y
+11497,Mrs.,Neha,Sharma,10/28/1978,M,M,neha11497@adventure-works.com,44200,0,Bachelors,Management,Y
+11498,Dr.,Liam,Ruiz,9/20/1992,M,M,liam11498@adventure-works.com,102629,4,PhD,Sales,Y
+11499,Mrs.,Julio,Ruiz,2/18/1974,S,F,julio11499@adventure-works.com,52287,4,PhD,Professional,N
